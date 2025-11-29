@@ -1,0 +1,20 @@
+# Python cache & build
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# CSVs generated during testing
+*.csv
+
+# Logs
+*.log
